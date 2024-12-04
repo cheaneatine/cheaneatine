@@ -48,9 +48,3 @@
   </tr>
 </table>
 <br />
-
-<!--Contribution Graph-->
-<h2 align="center"> Contribution Graph </h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheaneatine&theme=rose&hide_border=false" border-radius="15">
-</div>
