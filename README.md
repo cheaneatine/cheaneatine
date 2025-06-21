@@ -8,7 +8,7 @@
                                
 - 👩🏻‍💻 Junior Computer Science Student<br>
 - 💻 Studies at University of Science and Technology of Southern Philippines<br>
-- ✍ Currently learning Web Development<br>
+- ✍ Currently learning React<br>
 - ⚡ Fun fact: I am a [Blogger](https://www.facebook.com/wanderbrewjournal)<br>
 - 📫 How to reach me: **jimenez.cherryleeh@gmail.com** <br>
 
